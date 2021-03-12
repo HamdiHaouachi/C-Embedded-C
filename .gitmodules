@@ -1,6 +1,6 @@
-[submodule "Embedded_C/STM32F407G"]
-	path = Embedded_C/STM32F407G
-	url = https://github.com/HamdiHaouachi/C-Embedded-C
 [submodule "Practice_C/C_Algorithm"]
 	path = Practice_C/C_Algorithm
+	url = https://github.com/HamdiHaouachi/C-Embedded-C
+[submodule "Embedded_C/STM32F407G"]
+	path = Embedded_C/STM32F407G
 	url = https://github.com/HamdiHaouachi/C-Embedded-C
